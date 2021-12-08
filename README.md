@@ -28,6 +28,7 @@ My role on the team was as the Team Leader. I helped create the bulk of the layo
 * Added Favicon and Icons Throughout All Pages
 * Added Functionality to Links & Buttons
 * Adjusted Design Details
+* Incorporated a Sass Compiler
 * Created/Added all Javascript, Jquery, and ScrollReveals
 * Debugged
 
