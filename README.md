@@ -19,6 +19,7 @@ My role on the team was as the Team Leader. I helped create the bulk of the layo
 ### My Contributions:
 
 * Created Navbar, Footer, Hero, Carousels, Gallery, & Gallery Pages
+* Created All CSS Styles
 * Ensured Responsiveness to All Displays
 * Added Functionality for Gallery Pages & Contact Form
 * Added Color Scheme to All Pages
@@ -27,6 +28,7 @@ My role on the team was as the Team Leader. I helped create the bulk of the layo
 * Added Toast, Back To Top Button, & Font
 * Added Favicon and Icons Throughout All Pages
 * Added Functionality to Links & Buttons
+* Added Bootstrap Styling Classes to All Pages
 * Adjusted Design Details
 * Incorporated a Sass Compiler
 * Created/Added all Javascript, Jquery, and ScrollReveals
