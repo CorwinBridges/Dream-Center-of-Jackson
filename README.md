@@ -9,7 +9,7 @@ We are the 6 Inch Subway Steak & Cheeses! Our team consists of Corwin Bridges, V
 * Welcoming And Friendly Aesthetic
 * 9 Interactive Image Galleries
 * Improved Visual Imagery
-* Logical Events Page
+* Logical Page Names & Usage
 * Reviews from Online Sources
 * The Impacts of the Dream Center
 
