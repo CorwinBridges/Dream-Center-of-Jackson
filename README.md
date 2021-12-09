@@ -56,8 +56,8 @@ My role on the team was as the Lead Client Consultant. My mother, Stephanie Laff
 
 ### My Contributions:
 * Added Text Content to Testimonies and Reviews Page
-* Added Contact Form
-* Added Content to Event Cards
+* Created Contact Form
+* Added Text Content to Event Cards
 * Added Images to Multiple Gallery Pages
 * Added Text Content to About Us Page
 * Added Images to Main Page
