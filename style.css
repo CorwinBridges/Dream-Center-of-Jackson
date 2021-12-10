@@ -323,3 +323,9 @@ a:hover {
     margin-top: 0;
   }
 }
+
+@media (max-width: 575px) {
+  .lightboxhover {
+  font-size: 1.5rem;
+  }
+}
