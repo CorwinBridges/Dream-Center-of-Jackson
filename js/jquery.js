@@ -25,7 +25,7 @@ $(function () {
   });
 
   // Initialize Toast
-  $("#toastBtn").on("click", function () {
+  $("form#contact-form").on("submit", function (e) {
     $("#toaster").toast("show");
   });
 
