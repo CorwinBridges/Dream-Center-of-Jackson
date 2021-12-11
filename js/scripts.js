@@ -58,3 +58,18 @@ function closeFullscreen() {
 	compress.innerHTML = "<i class='fas fa-expand fa-2x lightboxhover'></i>";
 	compress.id = "Expand";
 }
+
+// Get cards
+var cards = $('.card-carousel');
+var maxHeight = 0;
+
+// Loop all cards and check height, if bigger than max then save it
+for (var i = 0; i < cards.length; i++) {
+  if (maxHeight < $(cards[i]).outerHeight()) {
+    maxHeight = $(cards[i]).outerHeight();
+  }
+}
+// Set ALL card bodies to this height
+for (var i = 0; i < cards.length; i++) {
+  $(cards[i]).height(maxHeight);
+}
