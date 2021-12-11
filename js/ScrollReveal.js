@@ -39,7 +39,6 @@ ScrollReveal().reveal(".multi-item-carousel-reveal", {
 });
 
 ScrollReveal().reveal(".section-reveal", {
-    interval: 600,
     duration: 500,
     easing: "ease-in-out",
     distance: "-2.5rem",
