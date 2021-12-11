@@ -5,13 +5,12 @@ We are the 6 Inch Subway Steak & Cheeses! Our team consists of Corwin Bridges, V
 
 * Clear & Understandable Website Design
 * Consistent Color Scheme
-* Improved Navigation
-* Welcoming And Friendly Aesthetic
-* 9 Interactive Image Galleries
-* Improved Visual Imagery
+* Improved Navigation & Visual Imagery
+* Welcoming & Friendly Aesthetic
 * Logical Page Names & Usage
-* Reviews from Online Sources
+* 9 Interactive Image Galleries
 * The Impacts of the Dream Center
+* Reviews from Online Sources
 
 # Corwin Bridges
 ### My Role
@@ -24,14 +23,14 @@ My role on the team was as the Team Leader. I helped create the bulk of the layo
 * Added Functionality for Gallery Pages & Contact Form
 * Added Color Scheme to All Pages
 * Added All Images to the Repository
-* Added Images & Text Content to Multiple Gallery Pages and Main Pages
+* Added Images & Text Content to Multiple Gallery Pages & Main Pages
 * Added Toast, Back To Top Button, & Font
-* Added Favicon and Icons Throughout All Pages
+* Added Favicon & Icons Throughout All Pages
 * Added Functionality to Links & Buttons
 * Added Bootstrap Styling Classes to All Pages
 * Adjusted Design Details
 * Incorporated a Sass Compiler
-* Created/Added all Javascript, Jquery, and ScrollReveals
+* Created/Added all Javascript, Jquery, & ScrollReveals
 * Debugged
 
 # Vraj Patel
@@ -41,10 +40,10 @@ My role on the team was as the Page Manager. I helped ensure consistency through
 ### My Contributions:
 * Created Event Cards
 * Added Sign Up Button & Add to Calendar Function
-* Edited Time and Dates for Add to Calendar Buttons
+* Edited Time & Dates for Add to Calendar Buttons
 * Added Text Content to Index, About Us, & Help Pages
-* Added Staff and Board Member Names
-* Added Google Map and Contact Information to Contact page
+* Added Staff & Board Member Names
+* Added Google Map & Contact Information to Contact page
 * Added Accordion in Help Page
 * Added Text Content to Hero on All pages
 * Created Initial Designs
@@ -57,7 +56,7 @@ My role on the team was as the Page Manager. I helped ensure consistency through
 My role on the team was as the Lead Client Consultant. My mother, Stephanie Laffon, has worked at the Dream Center for over a decade. This has given me firsthand experience and knowledge that was vital for the website's development. I helped give my team important details and descriptions about the Dream Center that was not convenient to new guests to create an improved user experience.
 
 ### My Contributions:
-* Added Text Content to Testimonies and Reviews Page
+* Added Text Content to Testimonies & Reviews Page
 * Created Contact Form
 * Added Text Content to Event Cards
 * Added Images to Multiple Gallery Pages
