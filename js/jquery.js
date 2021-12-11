@@ -173,7 +173,8 @@ function normalizeSlideHeights() {
       items.map(function () {
         return $(this).outerHeight()
       }).get());
-    items.css('min-height', maxHeight + 'px');
+    var ceilHeight = Math.ceil(maxHeight)
+    items.css('min-height', ceilHeight + 'px');
   })
 }
 
