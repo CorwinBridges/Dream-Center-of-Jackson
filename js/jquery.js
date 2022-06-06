@@ -24,6 +24,43 @@ $(function () {
     $("#num").html("" + currentIndex + "/" + totalItems + "");
   });
 
+
+  $('#collapseOne').one('shown.bs.collapse', function () {
+    ScrollReveal().reveal(".imgline1", {
+      interval: 100,
+      duration: 700,
+      easing: "ease-in-out",
+      distance: "-2.5rem",
+    });
+  });
+
+  $('#collapseTwo').one('shown.bs.collapse', function () {
+    ScrollReveal().reveal(".imgline2", {
+      interval: 100,
+      duration: 700,
+      easing: "ease-in-out",
+      distance: "-2.5rem",
+    });
+  });
+
+  $('#collapseThree').one('shown.bs.collapse', function () {
+    ScrollReveal().reveal(".imgline3", {
+      interval: 100,
+      duration: 700,
+      easing: "ease-in-out",
+      distance: "-2.5rem",
+    });
+  });
+
+  $('#collapseFour').one('shown.bs.collapse', function () {
+    ScrollReveal().reveal(".imgline4", {
+      interval: 100,
+      duration: 700,
+      easing: "ease-in-out",
+      distance: "-2.5rem",
+    });
+  });
+
   // Initialize Toast
   $("form#contact-form").on("submit", function (e) {
     $("#toaster").toast("show");

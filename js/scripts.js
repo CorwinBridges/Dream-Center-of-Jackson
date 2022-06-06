@@ -58,3 +58,8 @@ function closeFullscreen() {
 	compress.innerHTML = "<i class='fas fa-expand fa-2x lightboxhover'></i>";
 	compress.id = "Expand";
 }
+
+var loader = document.getElementById("preloader")
+window.addEventListener("load", function(){
+	loader.style.display="none";
+})
